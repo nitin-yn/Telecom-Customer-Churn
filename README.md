@@ -14,11 +14,11 @@ This project analyzes customer churn behavior in a telecom company to identify w
 Telecom Customer Churn Dataset (Maven Analytics)
 
 🎯 Business Problem-
-1.The telecom company is acquiring customers but overall revenue growth is slowing down. Leadership wants to understand:
-2.Where customers are dropping off
-3.Which segments have highest churn
-4.How much revenue is being lost
-5.Which customer groups need retention focus
+The telecom company is acquiring customers but overall revenue growth is slowing down. Leadership wants to understand:
+1.Where customers are dropping off
+2.Which segments have highest churn
+3.How much revenue is being lost
+4.Which customer groups need retention focus
 
 🎯 Dashboard Goal-
 1.The dashboard is designed to:
@@ -51,7 +51,8 @@ Telecom Customer Churn Dataset (Maven Analytics)
 Nitin Yadav
 Aspiring Data Analyst
 
-Dashboard Preview - https://github.com/nitin-yn/Telecom-Customer-Churn/blob/main/Telecom%20Customer%20Churn%20Dashboard.png
+![Dashboard](https://github.com/nitin-yn/Telecom-Customer-Churn/blob/main/Telecom%20Customer%20Churn%20Dashboard.png)
+
 
 
 
